@@ -1,0 +1,10 @@
+.horizontal-scroll {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px; /* Adjust based on your spacing preference */
+  }
+  
+.video-container {
+    flex: none; /* Prevent videos from stretching */
+    position: relative;
+}
